@@ -1,6 +1,5 @@
-# [Smitn:er Studio](https://smitner.studio)
+# [Smitnner Studio](https://smitner.studio)
 
-> Making Hazard Pay.
 
 Indie game studio. Built on [Godot Engine](https://godotengine.org).
 
@@ -24,4 +23,3 @@ Repos → [github.com/Smitner-Studio](https://github.com/orgs/Smitner-Studio/rep
 [Bluesky](https://smitner.studio/bluesky) &nbsp;·&nbsp;
 [YouTube](https://smitner.studio/youtube) &nbsp;·&nbsp;
 [Twitch](https://smitner.studio/twitch) &nbsp;·&nbsp;
-[mail@smitner.studio](mailto:mail@smitner.studio)
